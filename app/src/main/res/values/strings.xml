@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App Firebase Auth</string>
+    <string name="loginhint">Digite o seu Login</string>
+    <string name="senhahint">Digite sua senha</string>
+    <string name="senhaConfirmHint">Confirmar senha</string>
+    <string name="btnLogarText">Login</string>
+    <string name="btnCadastrarText">Cadastrar</string>
+    <string name="btnSair">Sair</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_teste">TesteActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_cadastro">CadastroActivity</string>
+</resources>

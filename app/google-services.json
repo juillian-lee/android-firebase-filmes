@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "654411937073",
+    "firebase_url": "https://android-f1fef.firebaseio.com",
+    "project_id": "android-f1fef",
+    "storage_bucket": "android-f1fef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654411937073:android:f09cbcf1cfd1c8d9",
+        "android_client_info": {
+          "package_name": "com.android.juillianlee.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654411937073-3s02dh2cc00iinv3vuk5be27bnt4ql59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvXgHzzYCa12DSear9BeqodUQ37l6sdok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
